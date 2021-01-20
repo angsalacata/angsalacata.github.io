@@ -1,0 +1,91 @@
+/* .links {
+    text-align:right;
+    font: 500;
+    font-size: 10px;
+} */
+
+
+body, html{
+    height:150%;
+    /* text-indent: 550px;
+    background: linear-gradient(
+        to left,
+        #EBEBEB  0%, 
+        #EBEBEB  50%, 
+        #EBEBEB  65%, 
+        black 65%, 
+        black 50%, 
+        black 100%
+    ); 
+    position: absolute; */
+}
+
+#side-bar{
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.aboutme{
+    margin-left: 20px;
+    margin-top: 40px;
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.name{
+    position: absolute;
+    left:135px;
+    top:410px;
+    font-size: 15px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.name .test0{
+    color:white;
+    position: relative;
+    left: 20px;
+    font-size:20px;
+}
+.name .test{
+    color:white;
+    position: absolute;
+    left: 50px;
+    font-size: 25px;
+
+}
+
+.name .test2{
+    color: white;
+    position: absolute;
+    right: 0px;
+    left: px;
+}
+
+.name .test3{
+    color:white;
+    position: absolute;
+    left: 70px;
+}
+.blurb{
+    position: absolute;
+    display: block;
+    top: 130px;
+    /* text-indent: 550px; */
+    font-size: 50px;
+
+    left: 550px;
+    right:100px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.picture{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    height: auto;
+}
